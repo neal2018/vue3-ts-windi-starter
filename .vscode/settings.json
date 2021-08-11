@@ -1,0 +1,23 @@
+{
+    "[javascript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[typescript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[pcss]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "files.autoSave": "off",
+    "css.validate": false,
+    "files.associations": {
+        "*.css": "postcss",
+    },
+    "editor.quickSuggestions": {
+        "strings": true
+    },
+    "cSpell.words": [
+        "composables"
+    ],
+    "editor.tabSize": 2,
+}
